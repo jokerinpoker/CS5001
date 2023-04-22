@@ -1,4 +1,6 @@
 # CS5001
+NAME: <WEIZHAO>
+SEMESTER: <Spring2023>
 CS5001 Final Project tictactoe_minimax
 
 Reflection
